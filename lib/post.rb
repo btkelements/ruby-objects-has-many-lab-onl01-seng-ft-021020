@@ -18,5 +18,4 @@ class Post
       return author.name
     end
   end
-  
 end
