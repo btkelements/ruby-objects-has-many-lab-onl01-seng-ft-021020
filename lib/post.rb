@@ -15,7 +15,7 @@ class Post
     if @author == nil
       return nil
     else
-      return @author.self
+      return self
     end
   end
   
